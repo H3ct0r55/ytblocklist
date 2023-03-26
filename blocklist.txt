@@ -1,8 +1,3 @@
-#The full youtube blocklist
-#This list blocks all youtube domains as well as all youtube video downloaders.
-#==============================================================================
-#Youtube domains
-
 0.0.0.0 googlevideo.com
 0.0.0.0 youtu.be
 0.0.0.0 youtube-nocookie.com
@@ -11,8 +6,6 @@
 0.0.0.0 youtubei.googleapis.com
 0.0.0.0 ytimg.com
 0.0.0.0 ytimg.l.google.com
-
-#Youtube downloaders
 0.0.0.0 y2mate.is
 0.0.0.0 yt2conv.com
 0.0.0.0 y2down.cc
