@@ -84,6 +84,8 @@
 0.0.0.0 mp3juices.cc
 0.0.0.0 onlinevideoconverter.com
 0.0.0.0 clipconverter.cc
+0.0.0.0 clipconverter.cx
+0.0.0.0 clipconverter.app
 0.0.0.0 flvto.biz
 0.0.0.0 y2matez.com
 0.0.0.0 ytbconverter.com
