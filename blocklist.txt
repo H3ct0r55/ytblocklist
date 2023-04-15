@@ -95,3 +95,4 @@
 0.0.0.0 getvideo.at
 0.0.0.0 youtubemultidownloader.com
 0.0.0.0 youtubetomp3hq.com
+0.0.0.0 yt1ss.net
